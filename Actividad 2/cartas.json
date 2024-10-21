@@ -1,0 +1,296 @@
+[
+    {
+        "id": 0,
+        "name": "Exploding Kitten",
+        "type": "Exploding",
+        "value": "Show this card inmediately",
+        "image": "explodingkitten0.png"
+    },
+    {
+        "id": 1,
+        "name": "Exploding Kitten",
+        "type": "Exploding",
+        "value": "Show this card inmediately",
+        "image": "explodingkitten1.png"
+    },
+    {
+        "id": 2,
+        "name": "Exploding Kitten",
+        "type": "Exploding",
+        "value": "Show this card inmediately",
+        "image": "explodingkitten2.png"
+    },
+    {
+        "id": 3,
+        "name": "Defuse",
+        "type": "Rare",
+        "value": "Instead of exploding, secretely put an exploding kitten back into the draw pile",
+        "image": "sandwitches.png"
+    },
+    {
+        "id": 4,
+        "name": "Defuse",
+        "type": "Rare",
+        "value": "Instead of exploding, secretely put an exploding kitten back into the draw pile",
+        "image": "laser.png"
+    },
+    {
+        "id": 5,
+        "name": "Defuse",
+        "type": "Rare",
+        "value": "Instead of exploding, secretely put an exploding kitten back into the draw pile",
+        "image": "therapy.png"
+    },
+    {
+        "id": 6,
+        "name": "Defuse",
+        "type": "Rare",
+        "value": "Instead of exploding, secretely put an exploding kitten back into the draw pile",
+        "image": "belly.png"
+    },
+    {
+        "id": 7,
+        "name": "Defuse",
+        "type": "Rare",
+        "value": "Instead of exploding, secretely put an exploding kitten back into the draw pile",
+        "image": "yoga.png"
+    },
+    {
+        "id": 8,
+        "name": "Attack",
+        "type": "Rare",
+        "value": "Do not draw any cards. Force the next player to take two turns",
+        "image": "bearodactyl.png"
+    },
+    {
+        "id": 9,
+        "name": "Attack",
+        "type": "Rare",
+        "value": "Do not draw any cards. Force the next player to take two turns",
+        "image": "crabapult.png"
+    },
+    {
+        "id": 10,
+        "name": "Attack",
+        "type": "Rare",
+        "value": "Do not draw any cards. Force the next player to take two turns",
+        "image": "backhair.png"
+    },
+    {
+        "id": 11,
+        "name": "Skip",
+        "type": "Rare",
+        "value": "End your turn without drawing a card",
+        "image": "cheetahbutt.png"
+    },
+    {
+        "id": 12,
+        "name": "Skip",
+        "type": "Rare",
+        "value": "End your turn without drawing a card",
+        "image": "hypergoat.png"
+    },
+    {
+        "id": 13,
+        "name": "Skip",
+        "type": "Rare",
+        "value": "End your turn without drawing a card",
+        "image": "crabwalk.png"
+    },
+    {
+        "id": 14,
+        "name": "Nope",
+        "type": "Rare",
+        "value": "Stop the action of another player. Play this at any time",
+        "image": "nopebellprize.png"
+    },
+    {
+        "id": 15,
+        "name": "Nope",
+        "type": "Rare",
+        "value": "Stop the action of another player. Play this at any time",
+        "image": "nopestradamus.png"
+    },
+    {
+        "id": 16,
+        "name": "Nope",
+        "type": "Rare",
+        "value": "Stop the action of another player. Play this at any time",
+        "image": "jackanope.png"
+    },
+    {
+        "id": 17,
+        "name": "Nope",
+        "type": "Rare",
+        "value": "Stop the action of another player. Play this at any time",
+        "image": "nopesandwich.png"
+    },
+    {
+        "id": 18,
+        "name": "Shuffle",
+        "type": "Rare",
+        "value": "Shuffle the draw pile",
+        "image": "abracrab.png"
+    },
+    {
+        "id": 19,
+        "name": "Shuffle",
+        "type": "Rare",
+        "value": "Shuffle the draw pile",
+        "image": "batfarts.png"
+    },
+    {
+        "id": 20,
+        "name": "Shuffle",
+        "type": "Rare",
+        "value": "Shuffle the draw pile",
+        "image": "transdimentional.png"
+    },
+    {
+        "id": 21,
+        "name": "Shuffle",
+        "type": "Rare",
+        "value": "Shuffle the draw pile",
+        "image": "pomeranianstorm.png"
+    },
+    {
+        "id": 22,
+        "name": "See the Future",
+        "type": "Rare",
+        "value": "Privately view the top two cards of the draw pile",
+        "image": "pigacorn.png"
+    },
+    {
+        "id": 23,
+        "name": "See the Future",
+        "type": "Rare",
+        "value": "Privately view the top two cards of the draw pile",
+        "image": "mantisshrimp.png"
+    },
+    {
+        "id": 24,
+        "name": "See the Future",
+        "type": "Rare",
+        "value": "Privately view the top two cards of the draw pile",
+        "image": "unicornenchilada.png"
+    },
+    {
+        "id": 25,
+        "name": "See the Future",
+        "type": "Rare",
+        "value": "Privately view the top two cards of the draw pile",
+        "image": "specialops.png"
+    },
+    {
+        "id": 26,
+        "name": "Beard Cat",
+        "type": "Common",
+        "value": "This is a cat card and is powerless on its own. Play two beard cats as a pair to steal a random card from another player",
+        "image": "beardcat0.png"
+    },
+    {
+        "id": 27,
+        "name": "Beard Cat",
+        "type": "Common",
+        "value": "This is a cat card and is powerless on its own. Play two beard cats as a pair to steal a random card from another player",
+        "image": "beardcat1.png"
+    },
+    {
+        "id": 28,
+        "name": "Beard Cat",
+        "type": "Common",
+        "value": "This is a cat card and is powerless on its own. Play two beard cats as a pair to steal a random card from another player",
+        "image": "beardcat2.png"
+    },
+    {
+        "id": 29,
+        "name": "Beard Cat",
+        "type": "Common",
+        "value": "This is a cat card and is powerless on its own. Play two beard cats as a pair to steal a random card from another player",
+        "image": "beardcat3.png"
+    },
+    {
+        "id": 30,
+        "name": "Tacocat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two tacocats as a pair to steal a random card from another player",
+        "image": "tacocat0.png"
+    },
+    {
+        "id": 31,
+        "name": "Tacocat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two tacocats as a pair to steal a random card from another player",
+        "image": "tacocat1.png"
+    },
+    {
+        "id": 32,
+        "name": "Tacocat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two tacocats as a pair to steal a random card from another player",
+        "image": "tacocat2.png"
+    },
+    {
+        "id": 33,
+        "name": "Tacocat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two tacocats as a pair to steal a random card from another player",
+        "image": "tacocat3.png"
+    },
+    {
+        "id": 34,
+        "name": "Hairy Potato Cat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two hairy potato cats as a pair to steal a random card from another player",
+        "image": "hairypotatocat0.png"
+    },
+    {
+        "id": 35,
+        "name": "Hairy Potato Cat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two hairy potato cats as a pair to steal a random card from another player",
+        "image": "hairypotatocat1.png"
+    },
+    {
+        "id": 36,
+        "name": "Hairy Potato Cat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two hairy potato cats as a pair to steal a random card from another player",
+        "image": "hairypotatocat2.png"
+    },
+    {
+        "id": 37,
+        "name": "Hairy Potato Cat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two hairy potato cats as a pair to steal a random card from another player",
+        "image": "hairypotatocat3.png"
+    },
+    {
+        "id": 38,
+        "name": "Rainbow-Ralphing Cat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two rainbow-ralphing cats as a pair to steal a random card from another player",
+        "image": "rrcat0.png"
+    },
+    {
+        "id": 39,
+        "name": "Rainbow-Ralphing Cat",
+        "type": "Common",
+        "value": "This is a cat card and is powerless on its own. Play two rainbow-ralphing cats as a pair to steal a random card from another player",
+        "image": "rrcat1.png"
+    },
+    {
+        "id": 40,
+        "name": "Rainbow-Ralphing Cat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two rainbow-ralphing cats as a pair to steal a random card from another player",
+        "image": "rrcat2.png"
+    },
+    {
+        "id": 41,
+        "name": "Rainbow-Ralphing Cat",
+        "type": "Common",
+         "value": "This is a cat card and is powerless on its own. Play two rainbow-ralphing cats as a pair to steal a random card from another player",
+        "image": "rrcat3.png"
+    }
+]
